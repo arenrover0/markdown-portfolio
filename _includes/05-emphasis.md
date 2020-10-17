@@ -1,1 +1,13 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# skills
+
+Below is the list of my technical skills:
+
+## Progeaming languages 
+- python
+- javascript
+- PHP
+- HTML
+- CSS
+
+##  Collaboration
+- NOVAVOIP
