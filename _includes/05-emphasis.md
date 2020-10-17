@@ -1,6 +1,6 @@
 # skills
 
-Below is the list of my technical skills:
+Below is the _list_ of my **technical skills**:
 
 ## Progeaming languages 
 - python
